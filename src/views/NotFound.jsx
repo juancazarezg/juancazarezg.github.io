@@ -7,8 +7,8 @@ const NotFound = () => {
       <div className="leftpart">
         <div className="leftpart_inner">
           <div className="logo">
-            <Link className="navbar-brand" to="/">
-              <img src="/assets/img/logo/tokyoczrz-logo-black.png" alt="brand" />
+            <Link className="navbar-brand" to="/portfolio">
+              <img src="/assets/img/logo/juanczrz-logo-black.png" alt="brand" />
             </Link>
           </div>
           {/* END LOGO */}
@@ -31,7 +31,7 @@ const NotFound = () => {
                   <div>
                   <iframe width="600" height="400" src="https://www.youtube.com/embed/LW6RWSiR88s?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
-                  <Link to="/" className="ib-button">
+                  <Link to="/portfolio" className="ib-button">
                     Go to Home
                   </Link>
                 </div>

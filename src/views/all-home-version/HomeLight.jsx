@@ -18,7 +18,7 @@ const HomeLight = () => {
           <div className="leftpart">
             <div className="leftpart_inner">
               <div className="logo">
-                <Link className="navbar-brand" to="/">
+                <Link className="navbar-brand" to="/portfolio">
                   <img src="/assets/img/logo/juanczrz-logo-black.png" alt="brand" />
                 </Link>
               </div>

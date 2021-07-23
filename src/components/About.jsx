@@ -35,7 +35,7 @@ const About = () => {
               </p>
               <h4 className="name">Education</h4>
               <p>
-               Data Science 
+               Computer Science 
               </p>
               <img src="assets/img/logotec.png" alt="about" style={{width: "80%"}}/>
 
